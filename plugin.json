@@ -1,0 +1,12 @@
+{
+    "ID": "D2D2C23B084D411DB66FE0C79D6C2J9D",
+    "ActionKeyword": "movie",
+    "Name": "豆瓣电影(修复)",
+    "Description": "搜索豆瓣电影评分(2020.09 API 修复)",
+    "Author": "Reynard",
+    "Version": "2.0.0",
+    "Language": "python",
+    "Website": "https://github.com/reycn/wox-douban-movie-fixed",
+    "ExecuteFileName": "main.py",
+    "IcoPath": "Images\\movies.png"
+}
